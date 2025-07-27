@@ -1,7 +1,7 @@
 python-telegram-bot==20.7
 python-dotenv==1.0.1
 psycopg2-binary==2.9.9
-pandas==2.1.4
+pandas==2.1.4s
 python-binance==1.0.17
 pillow==10.2.0
 schedule==1.2.1
