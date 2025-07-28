@@ -10,7 +10,7 @@ class Database:
     def __init__(self):
         self.connection = None
         self.connect()
-        self.drop_and_recreate_tables()
+    #   self.drop_and_recreate_tables()
         self.create_tables()
     
     def connect(self):
